@@ -9,11 +9,8 @@ Email: sagikandleker@gmail.com
 _**SOC Analyst - Mizrahi-Tefahot Bank**_  
 _03/2019 - present_ 
 
-TEXT **--** TEXT.
-TEXT **-**, **-**, **-** TEXT **-** TEXT **-**.  
-
 #### Projects:
-- [**CINTIX** Programming with **Java **.](https://github.com/sagikandleker/name)
+- [**CINTIX** Programming with **Java**.](https://github.com/iby1812/Final-Project)
 
 ## Education
 

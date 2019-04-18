@@ -1,6 +1,6 @@
 ## Personal Info
-Phone: +972-50-8691456
-Email: sagikandleker@gmail.com
+Phone: +972-50-8691456<br>
+Email: sagikandleker@gmail.com<br>
 [GitHub Account](https://github.com/sagikandleker)   
 [LinkedIn Account](https://www.linkedin.com/in/sagikandleker)
 

@@ -11,12 +11,13 @@ _03/2019 - present_ <br>
 - Supervision at ArcSight alerts, suspicious emails, network logs, and any other resource that
 provide insight into the bank network activity.<br>
 
-#### Projects:
+## Projects:
 - [**CINTIX (Final Project)**](https://github.com/iby1812/Final-Project) - Android Application to purchase movie tickets efficiently with a
 unique AI using - Java, Android, Firebase, MySQL, Git.
 
 - [**Process Monitor (Cyber Project)**](https://github.com/sagikandleker/Process-Monitoring) - Monitor processes running on your computer and respond
 to changes with cross-platform - Linux and Windows using - Python.
+
 - [**Wi-Fi Geolocation (OOP Project)**](https://github.com/sagikandleker/WiFi-Geolocation) - System that enables the collection of geographic
 information about Wi-Fi devices and displayed on graphical tools using - Java, MySQL.
 

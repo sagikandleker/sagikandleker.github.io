@@ -4,6 +4,9 @@ Email: sagikandleker@gmail.com<br>
 [GitHub Account](https://github.com/sagikandleker)   
 [LinkedIn Account](https://www.linkedin.com/in/sagikandleker)
 
+Computer Science and Mathematics Student (B.Sc) at Ariel University within the cyber program.<br>
+Responsible and reliable with autodidactic skills, outside-the-box-thinking and excellent interpersonal communication.
+
 ## Experience
 _**SOC Analyst - Mizrahi-Tefahot Bank - Tel Aviv**_  <br>
 _03/2019 - present_ <br>
@@ -12,14 +15,11 @@ _03/2019 - present_ <br>
 provide insight into the bank network activity.<br>
 
 ## Projects:
-- [**CINTIX (Final Project)**](https://github.com/iby1812/Final-Project) - Android Application to purchase movie tickets efficiently with a
-unique AI using - Java, Android, Firebase, MySQL, Git.
+- [**CINTIX (Final Project)**](https://github.com/iby1812/Final-Project) - Android Application to purchase movie tickets efficiently with a unique AI using - Java, Android, Firebase, MySQL, Git.
 
-- [**Process Monitor (Cyber Project)**](https://github.com/sagikandleker/Process-Monitoring) - Monitor processes running on your computer and respond
-to changes with cross-platform - Linux and Windows using - Python.
+- [**Process Monitor (Cyber Project)**](https://github.com/sagikandleker/Process-Monitoring) - Monitor processes running on your computer and respond to changes with cross-platform - Linux and Windows using - Python.
 
-- [**Wi-Fi Geolocation (OOP Project)**](https://github.com/sagikandleker/WiFi-Geolocation) - System that enables the collection of geographic
-information about Wi-Fi devices and displayed on graphical tools using - Java, MySQL.
+- [**Wi-Fi Geolocation (OOP Project)**](https://github.com/sagikandleker/WiFi-Geolocation) - System that enables the collection of geographic information about Wi-Fi devices and displayed on graphical tools using - Java, MySQL.
 
 ## Education
 _**B. Sc in Computer Science & Mathematics, Ariel University**_  <br>
